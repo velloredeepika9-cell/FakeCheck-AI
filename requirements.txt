@@ -1,7 +1,5 @@
 streamlit
-torch
-transformers
-opencv-python
+scikit-learn
 pillow
-librosa
 numpy
+pandas
